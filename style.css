@@ -1,0 +1,81 @@
+body {
+  font-family: 'Ubuntu', Helvetica, sans-serif;
+  color: #03051E;
+  background-color: #EAE1E1;
+}
+
+h1 {
+  color: #0B5269;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  color: #978D58;
+}
+
+a:hover {
+  color: #0B5269;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.list-inline li {
+  text-decoration: none;
+  display: inline-block;
+}
+
+.list-inline a {
+  text-decoration: none;
+}
+
+.list-inline i {
+  font-size: 64px;
+  padding: 16px;
+}
+
+.shadow-box {
+  border-radius: 2px;
+  box-shadow: 1px 1px 3px #978D58;
+  margin: 20px auto;
+  width: 600px;
+  padding: 60px;
+  background-color: #fff;
+}
+
+table img {
+  width: 300px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.main-box p {
+  padding: 40px;
+}
+
+.btn {
+  background-color: #978D58;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  background-color: #0B5269;
+  color: white;
+}
+
+table tr > td:first-child {
+  padding: 20px;
+}
+
+.shadow {
+  box-shadow: 1px 1px 3px #444;
+}
